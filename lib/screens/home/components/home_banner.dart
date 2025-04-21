@@ -106,7 +106,7 @@ class AnimatedText extends StatelessWidget {
       isRepeatingAnimation: true,
       animatedTexts: [
         TyperAnimatedText(
-            "As a passionate Software Developer, I am constantly on the quest for new knowledge and skills that will propel my professionaljourney forward. I am in search of a dynamic and challenging work environment that not only encourages but also prioritizes self-improvement and continuous learning. My motivation is fueled by opportunities that allow me to excel, thereby contributing to both my personal development and the growth of the company. With a keen focus on innovation and excellence, I am ready to bring my dedication and expertise to a team that values prog",
+            "As a passionate Software Developer, I am constantly on the quest for new knowledge and skills that will propel my professional journey forward. I am in search of a dynamic and challenging work environment that not only encourages but also prioritizes self-improvement and continuous learning. My motivation is fueled by opportunities that allow me to excel, thereby contributing to both my personal development and the growth of the company. With a keen focus on innovation and excellence, I am ready to bring my dedication and expertise to a team that values prog",
             speed: Duration(milliseconds: 60),
             textStyle: TextStyle(
               color: Colors.white,
